@@ -34,3 +34,14 @@ This is a link to  [my portfolio] http://google.com
 ## Images
 
 ![alt text](download.jpeg)
+
+We can put inline code by using a tic.
+
+To add an image use an '<img>' tag.
+Also you can add multi-line code by using three tics and the name of the coding language:
+
+```
+function test (){
+    console.log("test");
+}
+```
