@@ -37,11 +37,21 @@ This is a link to  [my portfolio] http://google.com
 
 We can put inline code by using a tic.
 
+##code
+
 To add an image use an '<img>' tag.
 Also you can add multi-line code by using three tics and the name of the coding language:
 
-```
+```javacscript
 function test (){
     console.log("test");
 }
 ```
+
+## Tables
+
+|Language  | Rating |
+|-------   | -------|
+|HTML      |  5     |
+|JavaScript|  7     |
+|CSS       |  9      |
