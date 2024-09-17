@@ -1,19 +1,14 @@
 # http5114
-Files form HTTP5114 course
+# Markdown Demo
 
-Small Changes!!
-Make a Change!
+This is an Example Markdown Document.
 
-1. Make a new repo on github.com
-2. 2. Open your Terminal
-   3. Navigate your terminal to project destination
-   4.  Clone The repo
-    5.  Change directory into the new folder
-   6. Open VSCode and point it to the same folder
+Make a change!
 
-Make a new repo on github.com
-2. 2. Open your Terminal
-   3. Navigate your terminal to project destination
-   4.  Clone The repo
-    5.  Change directory into the new folder
-   6. Open VSCode and point it to the same folder
+## Bold and Italics
+
+This text is **bold**.
+
+This text is _italics_.
+
+This text is **_bold and italics_**
